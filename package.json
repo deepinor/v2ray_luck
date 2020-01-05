@@ -1,0 +1,14 @@
+{
+  "name": "build-tool",
+  "version": "1.0.0",
+  "description": "Provide SSR subscrible link",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "keywords": [
+    "ssr", "subscrible link"
+  ],
+  "author": "Andy Chung",
+  "license": "ISC"
+}

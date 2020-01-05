@@ -16,7 +16,7 @@ let ENTRY_FILE = './node.txt' // SS(R)入口
 let str = readSync(ENTRY_FILE)
 
 let checker = item => {
-    return item => item.includes('ssr://') || item.includes('ss"//')
+    return item => item.includes('vmess://') || item.includes('vmess"//')
 }
 
 // Map all the item include `ssr://` and serialize those items

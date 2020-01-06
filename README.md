@@ -1,2 +1,2 @@
 # v2ray_luck
-v2ray订阅
+订阅地址 https://v2ray-luck.netlify.com

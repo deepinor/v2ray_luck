@@ -1,5 +1,10 @@
 # v2ray_luck
-订阅地址 https://v2ray-luck.netlify.com
+订阅地址 
+https://v2ray-luck.netlify.com
+clash订阅地址：
+https://suo.yt/6euyZyo
+https://suo.yt/TrbEKAo
+
 
 ----
 1. 不定时更新列表(最近更新20210525)；

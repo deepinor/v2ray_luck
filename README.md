@@ -1,7 +1,7 @@
 # v2ray_luck
 订阅地址 
 https://v2ray-luck.netlify.com  
-https://suo.yt/EXpYzCI
+https://suo.yt/EXpYzCI [/br]
 clash订阅地址：
 https://suo.yt/6euyZyo
 https://suo.yt/TrbEKAo

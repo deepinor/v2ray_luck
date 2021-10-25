@@ -95,7 +95,6 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDEzNC4xOTUuMTk2Ljc5OjgwOTE=#ca2
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDEzNC4xOTUuMTk2LjE1NDo4MDkw#%e6%ac%a7%e6%b4%b2()+7
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDEzNC4xOTUuMTk2Ljc5OjgwOTA=#%f0%9f%87%aa%f0%9f%87%ba+%e6%ac%a7%e6%b4%b2+27
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjEwNy4yMjYuMTQ2OjgwOTA=#%e8%99%8e%e7%aa%9dss%e8%8a%82%e7%82%b932
-vless://1fa11cf1-aab6-4fc5-afe4-86b782d3e40e@152.70.177.221:13063?encryption=none&security=none&type=ws&path=%2fuid00#fk1-%e6%b3%95%e5%85%b0%e5%85%8b%e7%a6%8f
 ss://YWVzLTI1Ni1nY206TGtGQXprelhrU0NSWWEyQ3NSZEw4Y0diQDE5OC44LjkyLjg0OjM0ODE1#%f0%9f%87%b8%f0%9f%87%ac+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDEzNC4xOTUuMTk2LjEzMzo4MDkx#%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3uWuS7a
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDEzNC4xOTUuMTk2LjcxOjIzNzY=#%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3uWuS7a
